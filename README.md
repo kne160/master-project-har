@@ -6,7 +6,7 @@ The aim of the research is to implement and analyse machine learning models usin
 To obtain a detailed description of the architecture, please refer to the dissertation. 
 
 ## Dissertation
-Sato, K. (2021). "Recognising human activities autonomously through fusion of sensor data". Master's thesis. The University of Manchester. Manchester.
+Sato, K. (2021). "Recognising Human Activities Autonomously Through Fusion of Sensor Data". Master's thesis. The University of Manchester. Manchester.
 
 ## Datasets to be used
 1. [OPPORTUNITY Activity Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition)
