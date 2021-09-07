@@ -11,4 +11,4 @@ RECOGNISING HUMAN ACTIVITIES AUTONOMOUSLY THROUGH FUSION OF SENSOR DATA
 2. [Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Dependencies
-For the required packages, see the requiements.txt.
+For the required packages, see the *requiements.txt*.
