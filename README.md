@@ -2,6 +2,7 @@
 
 ## Introduction
 This project provides the program codes for the master project.
+The aim of the project is to implement and analyse machine learning models using CNN and LSTM for Human Activity Recognition.
 
 ## Dissertation
 RECOGNISING HUMAN ACTIVITIES AUTONOMOUSLY THROUGH FUSION OF SENSOR DATA
