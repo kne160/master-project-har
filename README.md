@@ -1,10 +1,10 @@
 # HAR system using CNN and LSTM
 
 ## Introduction
-This project provides the program codes for the master project.
-The aim of the project is to implement and analyse machine learning models using CNN and LSTM for Human Activity Recognition.
+This project page provides the program codes for the master research.
+The aim of the research is to implement and analyse machine learning models using CNN and LSTM for Human Activity Recognition.
 
-## Dissertation
+## Dissertation title
 RECOGNISING HUMAN ACTIVITIES AUTONOMOUSLY THROUGH FUSION OF SENSOR DATA
 
 ## Datasets to be used
